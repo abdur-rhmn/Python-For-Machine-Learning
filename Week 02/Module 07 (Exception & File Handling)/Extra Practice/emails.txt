@@ -1,0 +1,8 @@
+john.doe@example.com
+Jane.Doe@COMPANY.ORG
+alice.smith@mail.net
+JOHN.DOE@example.com
+Bob.Johnson@web.co
+alice.smith@mail.net
+support@company.org
+Support@Company.Org

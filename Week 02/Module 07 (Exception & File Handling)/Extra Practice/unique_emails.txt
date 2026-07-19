@@ -1,0 +1,5 @@
+alice.smith@mail.net
+bob.johnson@web.co
+jane.doe@company.org
+john.doe@example.com
+support@company.org
