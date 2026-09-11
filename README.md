@@ -6,11 +6,11 @@
 
 ## 📌 About
 
-This repository documents my hands-on progression toward **Machine Learning and Data Science with Python**.
+This repository documents my practical progression toward **Machine Learning and Data Science with Python**.
 
-The focus is on developing the technical foundation required to work with data effectively — from writing structured Python programs to manipulating numerical data, preparing datasets, and extracting insights through visualization.
+The focus is not only on learning syntax, but on developing the ability to **write structured code, solve programming problems, work with numerical data, manipulate datasets, clean and transform data, and communicate insights through visualization**.
 
-Each week contains the code, exercises, and practice work completed during the learning process.
+It serves as a foundation for progressing into **Exploratory Data Analysis, Feature Engineering, Machine Learning, and applied AI**.
 
 ---
 
